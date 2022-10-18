@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_soliddark",
   "spriteId": {
     "name": "spr_soliddark",
     "path": "sprites/spr_soliddark/spr_soliddark.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -30,8 +34,4 @@
     "name": "COLLISION",
     "path": "folders/Objects/COLLISION.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_soliddark",
-  "tags": [],
-  "resourceType": "GMObject",
 }

@@ -1,7 +1,11 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_gigaqueen_enemy",
   "spriteId": null,
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -24,8 +28,4 @@
     "name": "boxingboss",
     "path": "folders/Objects/ENEMY/CH2/BOSS/boxingboss.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_gigaqueen_enemy",
-  "tags": [],
-  "resourceType": "GMObject",
 }

@@ -1,4 +1,8 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "snd_acquire_lancer",
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": false,
@@ -11,13 +15,9 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_acquire_lancer.wav",
-  "duration": 14.1346712,
+  "duration": 14.134671,
   "parent": {
     "name": "group_default",
     "path": "folders/Sounds/group_default.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "snd_acquire_lancer",
-  "tags": [],
-  "resourceType": "GMSound",
 }

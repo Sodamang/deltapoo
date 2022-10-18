@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_mansion_chandelier",
   "spriteId": {
     "name": "spr_dw_mansion_chandelier",
     "path": "sprites/spr_dw_mansion_chandelier/spr_dw_mansion_chandelier.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -24,7 +28,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -32,8 +36,4 @@
     "name": "cyber",
     "path": "folders/Objects/VFX/cyber.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_mansion_chandelier",
-  "tags": [],
-  "resourceType": "GMObject",
 }

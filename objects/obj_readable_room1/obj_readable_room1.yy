@@ -1,7 +1,11 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_readable_room1",
   "spriteId": null,
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -27,8 +31,4 @@
     "name": "COLLISION",
     "path": "folders/Objects/COLLISION.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_readable_room1",
-  "tags": [],
-  "resourceType": "GMObject",
 }

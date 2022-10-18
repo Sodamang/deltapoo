@@ -1,7 +1,11 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "o_boxingcontroller",
   "spriteId": null,
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -24,8 +28,4 @@
     "name": "boxingboss",
     "path": "folders/Objects/ENEMY/CH2/BOSS/boxingboss.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "o_boxingcontroller",
-  "tags": [],
-  "resourceType": "GMObject",
 }

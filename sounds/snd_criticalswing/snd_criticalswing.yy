@@ -1,4 +1,8 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "snd_criticalswing",
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": false,
@@ -16,8 +20,4 @@
     "name": "group_sfx",
     "path": "folders/Sounds/group_sfx.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "snd_criticalswing",
-  "tags": [],
-  "resourceType": "GMSound",
 }

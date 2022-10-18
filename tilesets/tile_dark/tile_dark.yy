@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMTileSet",
+  "resourceVersion": "1.0",
+  "name": "tile_dark",
   "spriteId": {
     "name": "bg_darktiles1",
     "path": "sprites/bg_darktiles1/bg_darktiles1.yy",
@@ -155,8 +158,4 @@
     "name": "darkworld",
     "path": "folders/Tile Sets/darkworld.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "tile_dark",
-  "tags": [],
-  "resourceType": "GMTileSet",
 }

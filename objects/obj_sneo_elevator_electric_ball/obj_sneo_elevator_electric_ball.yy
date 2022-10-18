@@ -1,7 +1,11 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_sneo_elevator_electric_ball",
   "spriteId": null,
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -24,8 +28,4 @@
     "name": "sneo",
     "path": "folders/Objects/ENEMY/CH2/BOSS/sneo.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_sneo_elevator_electric_ball",
-  "tags": [],
-  "resourceType": "GMObject",
 }

@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_markerD",
   "spriteId": {
     "name": "spr_markerD",
     "path": "sprites/spr_markerD/spr_markerD.yy",
   },
   "solid": false,
   "visible": false,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -27,8 +31,4 @@
     "name": "marker",
     "path": "folders/Objects/UTIL/marker.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_markerD",
-  "tags": [],
-  "resourceType": "GMObject",
 }

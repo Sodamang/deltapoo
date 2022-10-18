@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMTileSet",
+  "resourceVersion": "1.0",
+  "name": "tile_ccastle",
   "spriteId": {
     "name": "bg_cctiles",
     "path": "sprites/bg_cctiles/bg_cctiles.yy",
@@ -203,8 +206,4 @@
     "name": "cardcastle",
     "path": "folders/Tile Sets/darkworld/cardcastle.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "tile_ccastle",
-  "tags": [],
-  "resourceType": "GMTileSet",
 }

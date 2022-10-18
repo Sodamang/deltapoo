@@ -1,7 +1,11 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "DEVICE_OBACK_4",
   "spriteId": null,
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -24,8 +28,4 @@
     "name": "CONTACT",
     "path": "folders/Objects/CONTACT.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "DEVICE_OBACK_4",
-  "tags": [],
-  "resourceType": "GMObject",
 }

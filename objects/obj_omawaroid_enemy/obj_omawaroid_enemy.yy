@@ -1,7 +1,11 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_omawaroid_enemy",
   "spriteId": null,
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -24,8 +28,4 @@
     "name": "omawaroid",
     "path": "folders/Objects/ENEMY/CH2/omawaroid.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_omawaroid_enemy",
-  "tags": [],
-  "resourceType": "GMObject",
 }

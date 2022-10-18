@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMTileSet",
+  "resourceVersion": "1.0",
+  "name": "tile_prison2",
   "spriteId": {
     "name": "bg_prisontiles2",
     "path": "sprites/bg_prisontiles2/bg_prisontiles2.yy",
@@ -156,8 +159,4 @@
     "name": "cardcastle",
     "path": "folders/Tile Sets/darkworld/cardcastle.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "tile_prison2",
-  "tags": [],
-  "resourceType": "GMTileSet",
 }

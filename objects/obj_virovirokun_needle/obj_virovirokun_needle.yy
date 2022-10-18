@@ -1,7 +1,11 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_virovirokun_needle",
   "spriteId": null,
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -24,8 +28,4 @@
     "name": "virovirokun",
     "path": "folders/Objects/ENEMY/CH2/virovirokun.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_virovirokun_needle",
-  "tags": [],
-  "resourceType": "GMObject",
 }

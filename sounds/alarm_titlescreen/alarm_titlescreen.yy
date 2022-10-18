@@ -1,4 +1,8 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "alarm_titlescreen",
+  "conversionMode": 0,
   "compression": 0,
   "volume": 0.56,
   "preload": false,
@@ -11,13 +15,9 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "alarm_titlescreen.ogg",
-  "duration": 17.4900455,
+  "duration": 17.490046,
   "parent": {
     "name": "dog",
     "path": "folders/Sounds/dog.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "alarm_titlescreen",
-  "tags": [],
-  "resourceType": "GMSound",
 }

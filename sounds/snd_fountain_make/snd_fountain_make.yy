@@ -1,4 +1,8 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "snd_fountain_make",
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": false,
@@ -11,13 +15,9 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_fountain_make.ogg",
-  "duration": 10.2548122,
+  "duration": 10.254812,
   "parent": {
     "name": "default_ext",
     "path": "folders/Sounds/default_ext.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "snd_fountain_make",
-  "tags": [],
-  "resourceType": "GMSound",
 }

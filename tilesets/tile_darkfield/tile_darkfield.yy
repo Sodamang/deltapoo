@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMTileSet",
+  "resourceVersion": "1.0",
+  "name": "tile_darkfield",
   "spriteId": {
     "name": "bg_darkfield_tiles",
     "path": "sprites/bg_darkfield_tiles/bg_darkfield_tiles.yy",
@@ -119,8 +122,4 @@
     "name": "cardcastle",
     "path": "folders/Tile Sets/darkworld/cardcastle.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "tile_darkfield",
-  "tags": [],
-  "resourceType": "GMTileSet",
 }

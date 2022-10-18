@@ -1,7 +1,11 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_parallaxer_cyber2",
   "spriteId": null,
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -24,8 +28,4 @@
     "name": "cyber",
     "path": "folders/Objects/VFX/cyber.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_parallaxer_cyber2",
-  "tags": [],
-  "resourceType": "GMObject",
 }

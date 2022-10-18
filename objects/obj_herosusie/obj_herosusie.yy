@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_herosusie",
   "spriteId": {
     "name": "spr_susieb_idle",
     "path": "sprites/spr_susieb_idle/spr_susieb_idle.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -30,8 +34,4 @@
     "name": "hero",
     "path": "folders/Objects/ENEMY/BATTLE/hero.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_herosusie",
-  "tags": [],
-  "resourceType": "GMObject",
 }

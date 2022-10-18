@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_virovirokun_virus",
   "spriteId": {
     "name": "spr_virovirokun_virus",
     "path": "sprites/spr_virovirokun_virus/spr_virovirokun_virus.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -30,8 +34,4 @@
     "name": "virovirokun",
     "path": "folders/Objects/ENEMY/CH2/virovirokun.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_virovirokun_virus",
-  "tags": [],
-  "resourceType": "GMObject",
 }

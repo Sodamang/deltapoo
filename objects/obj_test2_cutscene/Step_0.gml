@@ -31,7 +31,6 @@ if (con == 2)
 	c_speaker("spamton")
 	c_msgsetloc(0, "* KRIS!! WAIT JUST A [[Tootin']] MINUTE!/%", "obj_test2_cutscene_slash_Step_0_gml_24_0")
 	c_talk_wait()
-	
 	c_mus2("volume", 0, 40)
 	
 	c_pannable(true)

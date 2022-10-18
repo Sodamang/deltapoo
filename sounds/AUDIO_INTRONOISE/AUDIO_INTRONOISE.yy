@@ -1,4 +1,8 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "AUDIO_INTRONOISE",
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": false,
@@ -11,13 +15,9 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "AUDIO_INTRONOISE.ogg",
-  "duration": 10.8928566,
+  "duration": 10.892857,
   "parent": {
     "name": "default_ext",
     "path": "folders/Sounds/default_ext.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "AUDIO_INTRONOISE",
-  "tags": [],
-  "resourceType": "GMSound",
 }

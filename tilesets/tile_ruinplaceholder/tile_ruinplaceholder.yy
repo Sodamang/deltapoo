@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMTileSet",
+  "resourceVersion": "1.0",
+  "name": "tile_ruinplaceholder",
   "spriteId": {
     "name": "bg_ruintile_placeholder",
     "path": "sprites/bg_ruintile_placeholder/bg_ruintile_placeholder.yy",
@@ -51,8 +54,4 @@
     "name": "trouble",
     "path": "folders/Tile Sets/trouble.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "tile_ruinplaceholder",
-  "tags": [],
-  "resourceType": "GMTileSet",
 }

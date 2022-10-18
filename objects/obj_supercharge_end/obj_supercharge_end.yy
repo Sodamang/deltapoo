@@ -1,7 +1,11 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_supercharge_end",
   "spriteId": null,
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -24,8 +28,4 @@
     "name": "heart",
     "path": "folders/Objects/PLAYER/heart.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_supercharge_end",
-  "tags": [],
-  "resourceType": "GMObject",
 }

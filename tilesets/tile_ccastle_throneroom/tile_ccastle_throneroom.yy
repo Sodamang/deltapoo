@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMTileSet",
+  "resourceVersion": "1.0",
+  "name": "tile_ccastle_throneroom",
   "spriteId": {
     "name": "bg_cc_throneroom_tiles",
     "path": "sprites/bg_cc_throneroom_tiles/bg_cc_throneroom_tiles.yy",
@@ -140,8 +143,4 @@
     "name": "cardcastle",
     "path": "folders/Tile Sets/darkworld/cardcastle.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "tile_ccastle_throneroom",
-  "tags": [],
-  "resourceType": "GMTileSet",
 }

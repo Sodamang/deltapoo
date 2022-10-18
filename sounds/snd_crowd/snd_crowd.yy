@@ -1,4 +1,8 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "snd_crowd",
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": false,
@@ -11,13 +15,9 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_crowd.wav",
-  "duration": 14.7813377,
+  "duration": 14.781338,
   "parent": {
     "name": "group_default",
     "path": "folders/Sounds/group_default.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "snd_crowd",
-  "tags": [],
-  "resourceType": "GMSound",
 }

@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_sul",
   "spriteId": {
     "name": "spr_sul",
     "path": "sprites/spr_sul/spr_sul.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -30,8 +34,4 @@
     "name": "COLLISION",
     "path": "folders/Objects/COLLISION.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_sul",
-  "tags": [],
-  "resourceType": "GMObject",
 }

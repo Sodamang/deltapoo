@@ -6,3 +6,5 @@ shadoweffect = 0
 init = false
 siner = 0
 accounty = 0
+sprite_index = spr_waterbg2
+depth = 10000000

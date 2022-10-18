@@ -1,7 +1,11 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_noelle_city_traffic_2",
   "spriteId": null,
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -24,8 +28,4 @@
     "name": "car",
     "path": "folders/Objects/MECH/cybercity/car.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_noelle_city_traffic_2",
-  "tags": [],
-  "resourceType": "GMObject",
 }

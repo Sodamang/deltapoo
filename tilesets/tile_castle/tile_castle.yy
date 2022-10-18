@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMTileSet",
+  "resourceVersion": "1.0",
+  "name": "tile_castle",
   "spriteId": {
     "name": "bg_tiles_castle",
     "path": "sprites/bg_tiles_castle/bg_tiles_castle.yy",
@@ -85,8 +88,4 @@
     "name": "darkworld",
     "path": "folders/Tile Sets/darkworld.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "tile_castle",
-  "tags": [],
-  "resourceType": "GMTileSet",
 }

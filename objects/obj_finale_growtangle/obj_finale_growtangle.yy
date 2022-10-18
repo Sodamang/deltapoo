@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_finale_growtangle",
   "spriteId": {
     "name": "spr_battlebg_0",
     "path": "sprites/spr_battlebg_0/spr_battlebg_0.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": {
     "name": "spr_battlebg_0",
     "path": "sprites/spr_battlebg_0/spr_battlebg_0.yy",
@@ -30,8 +34,4 @@
     "name": "sneo",
     "path": "folders/Objects/ENEMY/CH2/BOSS/sneo.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_finale_growtangle",
-  "tags": [],
-  "resourceType": "GMObject",
 }

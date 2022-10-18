@@ -1,7 +1,11 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_fusionmenu",
   "spriteId": null,
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -24,8 +28,4 @@
     "name": "save",
     "path": "folders/Objects/COLLISION/save.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_fusionmenu",
-  "tags": [],
-  "resourceType": "GMObject",
 }

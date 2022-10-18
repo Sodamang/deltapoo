@@ -1,8 +1,12 @@
 {
+  "resourceType": "GMFont",
+  "resourceVersion": "1.0",
+  "name": "fnt_small",
   "hinting": 0,
   "glyphOperations": 0,
   "interpreter": 0,
   "pointRounding": 0,
+  "applyKerning": 0,
   "fontName": "Crypt of Tomorrow",
   "styleName": "Regular",
   "size": 6.0,
@@ -20,6 +24,7 @@
     "path": "texturegroups/Default",
   },
   "ascenderOffset": 0,
+  "ascender": 0,
   "glyphs": {
     "32": {"x":2,"y":2,"w":4,"h":9,"character":32,"shift":4,"offset":0,},
     "33": {"x":2,"y":35,"w":2,"h":9,"character":33,"shift":5,"offset":1,},
@@ -130,8 +135,4 @@
     "name": "Fonts",
     "path": "folders/Fonts.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "fnt_small",
-  "tags": [],
-  "resourceType": "GMFont",
 }

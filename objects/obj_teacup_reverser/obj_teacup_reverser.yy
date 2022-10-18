@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_teacup_reverser",
   "spriteId": {
     "name": "spr_teacupRaiseZone",
     "path": "sprites/spr_teacupRaiseZone/spr_teacupRaiseZone.yy",
   },
   "solid": false,
   "visible": false,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -27,8 +31,4 @@
     "name": "teacup",
     "path": "folders/Objects/MECH/cybercity/teacup.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_teacup_reverser",
-  "tags": [],
-  "resourceType": "GMObject",
 }

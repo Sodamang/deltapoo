@@ -1,7 +1,11 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_encounter_bullet",
   "spriteId": null,
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -24,8 +28,4 @@
     "name": "OVERWORLD",
     "path": "folders/Objects/ENEMY/OVERWORLD.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_encounter_bullet",
-  "tags": [],
-  "resourceType": "GMObject",
 }

@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_musicer",
   "spriteId": {
     "name": "spr_musicer",
     "path": "sprites/spr_musicer/spr_musicer.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -27,8 +31,4 @@
     "name": "MUSIC",
     "path": "folders/Objects/MUSIC.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_musicer",
-  "tags": [],
-  "resourceType": "GMObject",
 }

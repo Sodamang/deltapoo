@@ -1,4 +1,8 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "AUDIO_DRONE",
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": false,
@@ -16,8 +20,4 @@
     "name": "group_default",
     "path": "folders/Sounds/group_default.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "AUDIO_DRONE",
-  "tags": [],
-  "resourceType": "GMSound",
 }
