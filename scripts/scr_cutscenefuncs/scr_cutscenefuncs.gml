@@ -651,6 +651,28 @@ function scr_cutscene_commands() {
         terminate_this_frame = 1
         breakme = 1
     }
+	if (_c == "jumpsprite")
+    {
+        if i_ex(command_actor[i])
+        {
+            command_actor[i].__arg0 = command_arg1[i]
+            command_actor[i].__arg1 = command_arg2[i]
+            command_actor[i].__arg2 = command_arg3[i]
+            command_actor[i].__arg3 = command_arg4[i]
+            command_actor[i].__arg4 = command_arg5[i]
+            command_actor[i].__arg5 = command_arg6[i]
+            if (!instant)
+            {
+                with (command_actor[i])
+                    scr_jump_to_point_sprite(__arg0, __arg1, __arg2, __arg3, __arg4, __arg5)
+            }
+            else
+            {
+                command_actor[i].x = command_arg1[i]
+                command_actor[i].y = command_arg2[i]
+            }
+        }
+    }
     return;
 }
 

@@ -628,3 +628,18 @@ function c_msc(ms) {
 	global.msc = ms
 	return;
 }
+
+function c_delayfacing(argument0, argument1) //gml_Script_c_delayfacing
+{
+    c_cmd_x("delaycmd", argument0, "facing", argument1, 0, 0, 0)
+    return;
+}
+
+function c_jump_sprite(argument0, argument1, argument2, argument3, argument4, argument5) //gml_Script_c_jump_sprite
+{
+    c_cmd_x("jumpsprite", argument0, argument1, argument2, argument3, argument4, argument5)
+    return;
+}
+
+
+

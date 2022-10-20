@@ -137,8 +137,8 @@ function scr_makecaterpillar(x, y, name, inst) {
                 name = "ralsei"
                 usprite = spr_ralsei_walk_up
                 dsprite = spr_ralsei_walk_down
-                rsprite = spr_ralsei_walk_right
-                lsprite = spr_ralsei_walk_left
+                rsprite = spr_ralsei_walk_right_caterpillar
+                lsprite = spr_ralsei_walk_left_caterpillar
             }
         }
     }

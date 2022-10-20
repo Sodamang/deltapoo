@@ -84,13 +84,13 @@ fade = fademax
 chaptertoload = 0
 chaptertoload_temp = 0
 console = (os_type == os_switch || os_type == os_ps4)
-latestAvailableChapter = 3
+latestAvailableChapter = 5
 chapname[0] = " - - "
 chapname[1] = "The Beginning"
 chapname[2] = "A Cyber's World"
-chapname[3] = "OMG CHAPTER 3 REAL"
-chapname[4] = " - - "
-chapname[5] = " - - "
+chapname[3] = "Home Sweet Home"
+chapname[4] = "Fishy Business"
+chapname[5] = "Smell The Flowers"
 chapname[6] = " - - "
 chapname[7] = " - - "
 text_font = 3
@@ -139,6 +139,8 @@ for (i = 0; i < 10; i += 1)
     no = (global.lang == "en" ? "No" : "いいえ")
     chapname[1] = (global.lang == "en" ? "The Beginning" : "はじまり")
     chapname[2] = (global.lang == "en" ? "A Cyber's World" : "サイバーワールド")
+	chapname[3] = (global.lang == "en" ? "Home Sweet Home" : "サイバーワールド")
+	chapname[4] = (global.lang == "en" ? "Fishy Business" : "サイバーワールド")
     scr_controls_default()
     audio_group_load(1)
     init_loaded = 1

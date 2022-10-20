@@ -45,7 +45,7 @@ if (facechange <= 0)
     }
     if (global.fc == 2)
     {
-        face = spr_face_r_dark
+        face = spr_face_r_nohat
         if (global.flag[30] == 1)
             face = spr_face_r_hood
         if (global.flag[30] == 2 || global.chapter > 1)
