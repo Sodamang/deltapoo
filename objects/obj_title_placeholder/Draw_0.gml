@@ -3,7 +3,7 @@ if (specialmode == 0)
     draw_set_color(c_white)
     draw_set_font(fnt_mainbig)
     draw_set_halign(fa_center)
-    draw_text((camerax() + (view_wport[0] / 2)), (cameray() + 80), "Chapter 2")
+    draw_text((camerax() + (view_wport[0] / 2)), (cameray() + 80), "Chapter 3")
     draw_set_halign(fa_left)
     for (var i = 0; i < array_length(choice); i++)
     {

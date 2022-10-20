@@ -8,5 +8,8 @@ switch chaptertoload_temp
     case 2:
         room_goto(ROOM_INITIALIZE)
         break
+	    case 3:
+        room_goto(ROOM_INITIALIZE_ch3)
+        break
 }
 

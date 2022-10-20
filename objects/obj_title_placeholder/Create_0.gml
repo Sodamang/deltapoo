@@ -1,5 +1,5 @@
 choice[0] = "Go to Main Menu"
-choice[1] = "Go to Debug Room"
+choice[1] = "Go to Green Room"
 choice[2] = "battle tester"
 choice[3] = "Load File 0"
 choice_index = 0

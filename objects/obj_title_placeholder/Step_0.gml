@@ -41,7 +41,7 @@ if button1_p()
         room_goto(roomchoice)
     }
     else if (choice_index == 1)
-        room_goto(room_test)
+        room_goto(room_greenroom)
     else if (choice_index == 2)
         room_goto(room_battletest)//scr_load()
     else if (choice_index == 3)
