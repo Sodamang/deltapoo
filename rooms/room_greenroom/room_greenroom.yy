@@ -27,7 +27,7 @@
 0,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,
 0,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,
 0,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,
-0,-2147483648,-2147483648,-16,0,],},"visible":true,"depth":1000000,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
+0,-2147483648,-2147483648,-16,0,],},"visible":true,"depth":1000000,"userdefinedDepth":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","spriteId":null,"colour":4278190080,"x":0,"y":0,"htiled":true,"vtiled":true,"hspeed":0.1,"vspeed":0.0,"stretch":false,"animationFPS":1.0,"animationSpeedType":1,"userdefinedAnimFPS":false,"visible":true,"depth":16777216,"userdefinedDepth":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
   ],
   "inheritLayers": false,

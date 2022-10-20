@@ -6,3 +6,4 @@ timer = 0
 damage = 18
 target = 0
 dir = 1
+depth = (obj_bubbleblower.depth - 100)
