@@ -1283,6 +1283,7 @@
     {"id":{"name":"room_title_placeholder_ch3","path":"rooms/room_title_placeholder_ch3/room_title_placeholder_ch3.yy",},"order":3,},
     {"id":{"name":"spr_sneo_head_joke","path":"sprites/spr_sneo_head_joke/spr_sneo_head_joke.yy",},"order":17,},
     {"id":{"name":"spr_sneo_bomb","path":"sprites/spr_sneo_bomb/spr_sneo_bomb.yy",},"order":43,},
+    {"id":{"name":"obj_parallaxer_layer","path":"objects/obj_parallaxer_layer/obj_parallaxer_layer.yy",},"order":2,},
     {"id":{"name":"obj_sneo_cshot","path":"objects/obj_sneo_cshot/obj_sneo_cshot.yy",},"order":31,},
     {"id":{"name":"obj_gms_debug_failsafe","path":"objects/obj_gms_debug_failsafe/obj_gms_debug_failsafe.yy",},"order":5,},
     {"id":{"name":"snd_txtnoe","path":"sounds/snd_txtnoe/snd_txtnoe.yy",},"order":149,},
