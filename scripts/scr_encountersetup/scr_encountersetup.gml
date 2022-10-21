@@ -57,7 +57,16 @@ function scr_encountersetup(encounter ) {
 			global.battlemsg[0] = stringset("* Pippins rolls the dice.")
 			
 			break
+		
+		case 99:
+		
+			global.monsterinstancetype[0] = obj_fuck
+			global.monstertype[0] = 8
+			global.monstermakex[0] = (xx + 480)
+			global.monstermakey[0] = (yy + 60)
+			global.battlemsg[0] = stringset("* Fuck!")
 			
+			break
 		case 121:
 		
 			global.monsterinstancetype[0] = obj_chatbot
@@ -363,6 +372,24 @@ function scr_monstersetup() {
         global.actnameral[myself][0] = stringsetloc("R-Action", "scr_monstersetup_slash_scr_monstersetup_gml_1820_0")
         global.actsimulral[myself][0] = true
     }
+	
+	if global.monstertype[myself] == 99 {
+		
+		global.monstername[myself] = stringsetloc("Fuck", "scr_monstersetup_slash_scr_monstersetup_gml_244_0")
+        global.monstermaxhp[myself] = 99999
+        global.monsterhp[myself] = 99999
+        global.monsterat[myself] = 10
+        global.monsterdf[myself] = 0
+        global.monsterexp[myself] = 0
+        global.monstergold[myself] = 1
+        global.sparepoint[myself] = 1
+        global.mercymod[myself] = 0
+        global.mercymax[myself] = 100
+        global.canact[myself][0] = true
+        global.actname[myself][0] = stringsetloc("Check", "scr_monstersetup_slash_scr_monstersetup_gml_255_0")
+        global.canact[myself][1] = true
+		global.actname[myself][1] = "Flee"
+	}
 	
 	if global.monstertype[myself] == 109 {
 		

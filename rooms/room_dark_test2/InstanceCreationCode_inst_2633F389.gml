@@ -1,6 +1,6 @@
-myencounter = 121
-sprite_index = spr_chatbot_idle
-touchsprite = spr_chatbot_happy
+myencounter = 99
+sprite_index = spr_virovirokun_hurt
+touchsprite = spr_virovirokun_hurt
 radius = 120
 pacetype = 14
 chasetype = 1

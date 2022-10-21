@@ -229,6 +229,23 @@ if (type == 1022)
     }
 }
 
+if (type == 2000)
+{
+	if (btimer >= (0 * ratio)) && made = 0
+    {
+		d = instance_create(obj_growtangle.x, obj_growtangle.y + 125, obj_chatbot_mail353)
+		with instance_create(obj_growtangle.x - 250, obj_growtangle.y, obj_thing)
+			setdir = 5
+		with instance_create(obj_growtangle.x + 250, obj_growtangle.y, obj_thing)
+			setdir = -5
+        d.damage = damage
+        d.target = target
+		d.vspeed = -0.00005
+		d.gravity = -0.001
+		made = 1
+    }
+}
+
 else if (type >= 23 && type <= 25)
 {
     if (init == true)
@@ -303,7 +320,7 @@ if (type == 1007)
     yy = __view_get((1 << 0), 0)
     if (made < 3 && btimer >= 15)
     {
-        btimer = 0
+        btimer = 10
         mine = instance_create((300 + xx), (-20 + yy), obj_dicebul)
         mine.damage = damage
         mine.target = target

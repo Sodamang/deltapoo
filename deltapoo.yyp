@@ -202,6 +202,7 @@
     {"id":{"name":"obj_crusher_leeway","path":"objects/obj_crusher_leeway/obj_crusher_leeway.yy",},"order":35,},
     {"id":{"name":"scr_keyiteminfo","path":"scripts/scr_keyiteminfo/scr_keyiteminfo.yy",},"order":6,},
     {"id":{"name":"snd_scissorbell","path":"sounds/snd_scissorbell/snd_scissorbell.yy",},"order":108,},
+    {"id":{"name":"obj_chatbot_mail353","path":"objects/obj_chatbot_mail353/obj_chatbot_mail353.yy",},"order":5,},
     {"id":{"name":"spr_shop_spamton_bg","path":"sprites/spr_shop_spamton_bg/spr_shop_spamton_bg.yy",},"order":0,},
     {"id":{"name":"snd_speak_and_spell_Z","path":"sounds/snd_speak_and_spell_Z/snd_speak_and_spell_Z.yy",},"order":1,},
     {"id":{"name":"snd_lastsound_dontmove","path":"sounds/snd_lastsound_dontmove/snd_lastsound_dontmove.yy",},"order":75,},
@@ -225,7 +226,6 @@
     {"id":{"name":"spr_ralsei_jump","path":"sprites/spr_ralsei_jump/spr_ralsei_jump.yy",},"order":12,},
     {"id":{"name":"spr_ralseir","path":"sprites/spr_ralseir/spr_ralseir.yy",},"order":3,},
     {"id":{"name":"spr_doorF","path":"sprites/spr_doorF/spr_doorF.yy",},"order":5,},
-    {"id":{"name":"obj_chatbot_missile","path":"objects/obj_chatbot_missile/obj_chatbot_missile.yy",},"order":2,},
     {"id":{"name":"obj_solidenemy","path":"objects/obj_solidenemy/obj_solidenemy.yy",},"order":11,},
     {"id":{"name":"snd_camera_flash","path":"sounds/snd_camera_flash/snd_camera_flash.yy",},"order":119,},
     {"id":{"name":"obj_caterpillarchara","path":"objects/obj_caterpillarchara/obj_caterpillarchara.yy",},"order":3,},
@@ -627,6 +627,7 @@
     {"id":{"name":"scr_gamestart","path":"scripts/scr_gamestart/scr_gamestart.yy",},"order":0,},
     {"id":{"name":"spr_sneo_laser_friendly","path":"sprites/spr_sneo_laser_friendly/spr_sneo_laser_friendly.yy",},"order":55,},
     {"id":{"name":"snd_defeatrun","path":"sounds/snd_defeatrun/snd_defeatrun.yy",},"order":35,},
+    {"id":{"name":"obj_fuck","path":"objects/obj_fuck/obj_fuck.yy",},"order":4,},
     {"id":{"name":"spr_shopicon","path":"sprites/spr_shopicon/spr_shopicon.yy",},"order":2,},
     {"id":{"name":"spr_noelleb_itemready","path":"sprites/spr_noelleb_itemready/spr_noelleb_itemready.yy",},"order":7,},
     {"id":{"name":"obj_sneo_elevator_test","path":"objects/obj_sneo_elevator_test/obj_sneo_elevator_test.yy",},"order":27,},
@@ -734,6 +735,7 @@
     {"id":{"name":"snd_queen_pirouette","path":"sounds/snd_queen_pirouette/snd_queen_pirouette.yy",},"order":234,},
     {"id":{"name":"spr_equipchar_ch2","path":"sprites/spr_equipchar_ch2/spr_equipchar_ch2.yy",},"order":9,},
     {"id":{"name":"spr_sparestar_anim","path":"sprites/spr_sparestar_anim/spr_sparestar_anim.yy",},"order":10,},
+    {"id":{"name":"obj_thing","path":"objects/obj_thing/obj_thing.yy",},"order":6,},
     {"id":{"name":"obj_chatbot","path":"objects/obj_chatbot/obj_chatbot.yy",},"order":0,},
     {"id":{"name":"obj_berdlyplug_enemy","path":"objects/obj_berdlyplug_enemy/obj_berdlyplug_enemy.yy",},"order":1,},
     {"id":{"name":"snd_txtber","path":"sounds/snd_txtber/snd_txtber.yy",},"order":143,},
@@ -1813,7 +1815,7 @@
     {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audio_sfx","targets":-1,},
   ],
   "TextureGroups": [
-    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","isScaled":true,"compressFormat":"bz2","loadType":"default","directory":"","autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,},
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","isScaled":true,"compressFormat":"bz2","autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"AUDIO_DARKNESS.ogg","CopyToMask":-1,"filePath":"datafiles/mus",},
@@ -1934,6 +1936,6 @@
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"mus_dogroom.ogg","CopyToMask":-1,"filePath":"datafiles/mus",},
   ],
   "MetaData": {
-    "IDEVersion": "2022.9.1.51",
+    "IDEVersion": "2022.8.1.37",
   },
 }

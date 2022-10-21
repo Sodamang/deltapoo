@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_chatbot_missile",
+  "name": "obj_chatbot_mail353",
   "spriteId": {
-    "name": "spr_chatbot_mailattackmissile",
-    "path": "sprites/spr_chatbot_mailattackmissile/spr_chatbot_mailattackmissile.yy",
+    "name": "spr_doorblack",
+    "path": "sprites/spr_doorblack/spr_doorblack.yy",
   },
   "solid": false,
   "visible": true,
@@ -12,8 +12,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "obj_regularbullet",
-    "path": "objects/obj_regularbullet/obj_regularbullet.yy",
+    "name": "obj_collidebullet",
+    "path": "objects/obj_collidebullet/obj_collidebullet.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -30,6 +30,8 @@
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":64,"eventType":8,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],

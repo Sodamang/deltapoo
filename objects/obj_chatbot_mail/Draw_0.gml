@@ -1,7 +1,7 @@
 active = true
 if (dont == 0)
 {
-    vspeed = -2
+    vspeed = 0
 	hspeed = 2
     }
     draw_sprite_ext(sprite_index, 0, x, y, (2 - image_alpha), (2 - image_alpha), 0, c_white, image_alpha)

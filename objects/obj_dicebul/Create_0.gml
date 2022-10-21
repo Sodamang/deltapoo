@@ -9,3 +9,4 @@ bottomfade = 0
 
 gravbonus = 0
 green = false
+dir = 0

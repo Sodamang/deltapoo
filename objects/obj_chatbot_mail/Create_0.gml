@@ -19,3 +19,4 @@ destroyonhit = false
 wall_destroy = 1
 spin = 0
 bottomfade = 0
+y = obj_heart.y
