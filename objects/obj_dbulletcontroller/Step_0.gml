@@ -242,10 +242,75 @@ if (type == 2000)
         d.target = target
 		d.vspeed = -0.00005
 		d.gravity = -0.001
+		ratio = -1
 		made = 1
     }
 }
 
+if (type == 2001)
+{
+	if (btimer >= (0 * ratio)) && made = 0
+    {
+			b = instance_create(obj_growtangle.x, obj_growtangle.y, obj_crabstleattackflag)
+			b.speed = 0
+			b.image_angle = b.direction
+			b.damage = damage
+			b.target = target
+		made = 1
+    }
+	
+	if (btimer = (100 * ratio))
+    {
+			b = instance_create(x + 16, (y + 10) + (sprite_height / 2), obj_dog_bark)
+			b.direction = (-180 + 35)
+			b.speed = 6
+			b.sprite_index = spr_sneo_soundbullet_3lol
+			b.image_angle = b.direction
+			b.damage = damage
+			b.target = target
+		made = 1
+    }
+	
+	if (btimer = (150 * ratio))
+    {
+			b = instance_create(x + 32, (y + 10) + (sprite_height / 2), obj_dog_bark)
+			b.direction = (-180 + 35)
+			b.speed = 6
+			b.sprite_index = spr_sneo_soundbullet_2lol
+			b.image_angle = b.direction
+			b.damage = damage
+			b.target = target
+		made = 1
+    }
+	
+	if (btimer = (200 * ratio))
+    {
+			b = instance_create(x + 32, (y + 10) + (sprite_height / 2), obj_dog_bark)
+			b.direction = (-180 + 35)
+			b.speed = 6
+			b.sprite_index = spr_sneo_soundbullet_1lol
+			b.image_angle = b.direction
+			b.damage = damage
+			b.target = target
+		made = 1
+    }
+}
+
+if type = 1010 {
+	
+	if made = 0 {
+		xx = obj_growtangle.x + (obj_growtangle.sprite_width / 2)
+		yy = obj_growtangle.y + (obj_growtangle.sprite_height / 2)
+		d = instance_create((xx + 50), yy - 20, obj_dog_bullet)
+		d.damage = damage
+		d.target = target
+		d.type = choose(1, 2)
+		if d.type = 1
+			d.y -= 100
+		made = 1
+	}
+	
+}
 else if (type >= 23 && type <= 25)
 {
     if (init == true)

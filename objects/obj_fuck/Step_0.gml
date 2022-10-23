@@ -49,17 +49,21 @@ if (global.monster[myself] == true)
             rr = choose(0, 1)
             if (rr == 0)
             {
-                global.monsterattackname[myself] = "HiAndHello"
+                global.monsterattackname[myself] = "SandToss"
                 dc = scr_bulletspawner(x, y, obj_dbulletcontroller)
                 dc.type = 2000
+				obj_growtangle.maxxscale = 2
+				obj_growtangle.maxyscale = 1.5
             }
             else
             {
-                global.monsterattackname[myself] = "YouveGotMail"
+                global.monsterattackname[myself] = "FlagSpin"
                 dc = scr_bulletspawner(x, y, obj_dbulletcontroller)
-                dc.type = 2000
+                dc.type = 2001
+				obj_growtangle.maxxscale = 2
+				obj_growtangle.maxyscale = 1.5
             }
-            scr_turntimer(140)
+            scr_turntimer(200)
             turns += 1
             global.typer = 6
             global.fc = 0

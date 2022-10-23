@@ -469,6 +469,10 @@ if (con == "gameload")
             case 2:
                 audio_play_sound(snd_queen_bitcrushlaugh, 50, false)
                 break
+				
+			case 4:
+                audio_play_sound(snd_boss_laugh, 50, false)
+                break
         }
 
         chaptertoload_temp = chaptertoload
