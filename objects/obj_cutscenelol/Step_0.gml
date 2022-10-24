@@ -22,6 +22,7 @@ c_talk_wait()
 c_speaker("susie")
 c_msgsetloc(0, "\\E0* I'm sure we'll find him somewhere./%", "obj_example_cutscene_slash_Step_0_gml_60_0")
 c_talk_wait()
+c_actortokris()
 c_actortocaterpillar()
 c_terminatekillactors()
 
