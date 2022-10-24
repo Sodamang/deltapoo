@@ -240,6 +240,9 @@ function scr_texttype() {
         case 667:
             scr_textsetup(scr_84_get_font("main"), c_white, x, y, 33, 0, 2, snd_nosound, 12, 20, 2)
             break
+		case 777:
+            scr_textsetup(scr_84_get_font("main"), c_white, x, y, 33, 0, 1, snd_txtj, 8, 18, false)
+            break
         case 999:
             scr_textsetup(scr_84_get_font("main"), c_white, x, y, 33, 0, 4, snd_txtecho, 8, 18, 3)
             break

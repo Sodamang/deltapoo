@@ -192,7 +192,10 @@ function scr_speaker(speaker) {
     if (_speaker == "catti")
         global.fc = 13
     if (_speaker == "jockington" || _speaker == "joc")
-        global.fc = 14
+	{
+		global.fc = 14
+		global.typer = 777
+	}
     if (_speaker == "catty" || _speaker == "caddy")
         global.fc = 16
     if (_speaker == "bratty" || _speaker == "bra")

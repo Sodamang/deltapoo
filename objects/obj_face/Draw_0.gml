@@ -199,25 +199,8 @@ if (facechange <= 0)
     if (global.fc == 14)
     {
         face = spr_face_jock0
-        if (global.fe == 1)
-            face = spr_face_jock1
-        if (global.fe == 1)
-            face = spr_face_jock2
-        if (global.fe == 1)
-            face = spr_face_jock3
-        if (global.fe == 1)
-            face = spr_face_jock4
-        if (global.fe == 1)
-            face = spr_face_jock5
-        if (global.fe == 1)
-            face = spr_face_jock6
-        if (global.fe == 1)
-            face = spr_face_jock7
-        if (global.fe == 1)
-            face = spr_face_jock8
-        if (global.fe == 1)
-            face = spr_face_jock9
-        draw_sprite_ext(face, face_index, (x - 10), y, f, f, 0, c_white, 1)
+            face_index = global.fe
+            draw_sprite_ext(face, face_index, (x - 5), y, f, f, 0, c_white, 1)
     }
     if (global.fc == 15)
     {
