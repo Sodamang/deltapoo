@@ -15,9 +15,10 @@ if on = true
 	timer -= 0.5
 	}
 	
-if (place_meeting(x, y, obj_mainchara) && on = true)
+if (place_meeting(x, y, obj_mainchara) && on = true || place_meeting(x, y, obj_actor) && on = true)
 	{
 	snd_play(snd_noise)
+	sprite_index = spr_bubbleblowerDEAD
 	on = false
 	}
 	
