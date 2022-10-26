@@ -1,17 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_seaweed_vfx",
-  "spriteId": {
-    "name": "spr_seaweedgrass",
-    "path": "sprites/spr_seaweedgrass/spr_seaweedgrass.yy",
-  },
+  "name": "obj_parallaxer_layer_water2",
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_backgrounderparent",
+    "path": "objects/obj_backgrounderparent/obj_backgrounderparent.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -26,11 +26,13 @@
   "physicsShapePoints": [],
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":10,"eventType":7,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "CH4",
-    "path": "folders/Objects/CH4.yy",
+    "name": "PARALLAXER",
+    "path": "folders/Objects/VFX/PARALLAXER.yy",
   },
 }

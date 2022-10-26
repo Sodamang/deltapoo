@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_seaweed_vfx",
+  "name": "obj_seaweedvfx",
   "spriteId": {
-    "name": "spr_seaweedgrass",
-    "path": "sprites/spr_seaweedgrass/spr_seaweedgrass.yy",
+    "name": "spr_seaweed",
+    "path": "sprites/spr_seaweed/spr_seaweed.yy",
   },
   "solid": false,
   "visible": true,
@@ -30,7 +30,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "CH4",
-    "path": "folders/Objects/CH4.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
 }
