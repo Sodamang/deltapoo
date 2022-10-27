@@ -13,6 +13,8 @@ if (!ignoredepth)
         depth -= 60
     if (name == "noelle")
         depth -= 5
+	    if (name == "jockington")
+        depth -= 5
 }
 nowx = x
 nowy = y

@@ -222,6 +222,18 @@ function scr_makecaterpillar(x, y, name, inst) {
 		}
 	}
 	
+	if argument2 = 9 {
+		
+		with global.cinstance[argument3] {
+			
+			name = "jockington"
+			usprite = spr_jock_walk_up
+			dsprite = spr_jock_walk_down
+            rsprite = spr_jock_walk_right
+            lsprite = spr_jock_walk_left
+		}
+	}
+	
     return global.cinstance[argument3];
 }
 

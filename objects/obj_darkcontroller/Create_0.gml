@@ -109,6 +109,25 @@ for (i = 0; i < 3; i += 1)
             }
         }
     }
+	    if (global.char[i] == 5)
+    {
+        havechar[3] = 1
+        charpos[3] = i
+        if (i > 0)
+        {
+            global.cinstance[(i - 1)] = instance_create((obj_mainchara.x - 4), (obj_mainchara.y - 20), obj_caterpillarchara)
+            global.cinstance[(i - 1)].target = (i * 12)
+            with (global.cinstance[(i - 1)])
+            {
+                name = "jockington"
+                slidesprite = spr_jock_walk_up
+                usprite = spr_jock_walk_up
+                dsprite = spr_jock_walk_down
+                rsprite = spr_jock_walk_right
+                lsprite = spr_jock_walk_left
+            }
+        }
+    }
 }
 global.charinstance[0] = 80
 global.charinstance[1] = global.cinstance[0]

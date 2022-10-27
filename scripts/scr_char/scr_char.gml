@@ -331,7 +331,15 @@ function scr_set_facing_sprites(char) {
             lsprite = spr_asgorel
             rsprite = spr_asgorer
         }
-    }
+    if (_actorname == "jockington")
+        {
+            name = "jockington"
+            usprite = spr_jock_walk_up
+            dsprite = spr_jock_walk_down
+            lsprite = spr_jock_walk_left
+            rsprite = spr_jock_walk_right
+        }
+	}
     else
     {
         usprite = _actorname
@@ -452,6 +460,13 @@ function scr_setmainchar(char) {
 				global.mc_uspr = spr_krisu_dark
 			}
 			break
+	case "jockington": case "joc": case 9:
+			global.mainchar = "jockington"
+			global.mc_dspr = spr_jock_walk_down
+			global.mc_rspr = spr_jock_walk_right
+			global.mc_lspr = spr_jock_walk_left
+			global.mc_uspr = spr_jock_walk_up
+			break	
 	}
 	
 	with obj_mainchara {
