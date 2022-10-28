@@ -95,6 +95,22 @@ function scr_spellmenu_setup() {
                     global.battlespellspecial[__i][__fj] = 4
                 }
             }
+			 if (global.char[__i] == 9)
+            {
+                if (global.canactjoc[0][__fj] == true)
+                {
+                    global.battlespell[__i][__fj] = -1
+                    if (global.battleactcount[__i] < (__fj + 1))
+                        global.battleactcount[__i] = (__fj + 1)
+                    global.battlespellcost[__i][__fj] = global.actcostjoc[0][__fj]
+                    global.battlespellname[__i][__fj] = global.actnamejoc[0][__fj]
+                    if __actnamecheck
+                        global.battlespellname[__i][__fj] = stringsetloc("J-Action", "scr_monstersetup_slash_scr_monstersetup_gml_1061_0")
+                    global.battlespelldesc[__i][__fj] = global.actdescjoc[0][__fj]
+                    global.battlespelltarget[__i][__fj] = 2
+                    global.battlespellspecial[__i][__fj] = 4
+                }
+            }
         }
     }
     scr_spellinfo_all()

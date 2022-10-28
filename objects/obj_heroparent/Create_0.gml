@@ -185,5 +185,51 @@ if (object_index == obj_heronoelle)
     mywidth = 52
     myheight = 86
 }
+if (object_index == obj_herojockington)
+{
+    attackframes = 4
+    itemframes = 9
+    defendframes = 0
+    actframes = 7
+    actreturnframes = 11
+    attackspeed = 0.5
+    spellframes = 6
+    normalsprite = spr_noelle_walk_right_dw
+    idlesprite = spr_noelleb_idle
+    if (global.encounterno == 73)
+        idlesprite = spr_noelle_shocked_dw
+    defendsprite = spr_noelleb_defend
+    hurtsprite = spr_noelleb_hurt
+    attackreadysprite = spr_noelleb_attackready
+    attacksprite = spr_noelleb_attack
+    itemsprite = spr_noelleb_item
+    itemreadysprite = spr_noelleb_itemready
+    spellreadysprite = spr_noelleb_spellready
+    if (global.encounterno == 82)
+        spellreadysprite = spr_noelleb_spellready
+    spellsprite = spr_noelleb_spell
+    defeatsprite = spr_noelleb_defeat
+    victorysprite = spr_noelleb_victory
+    actreadysprite = spr_noelleb_actready
+    actsprite = spr_noelleb_act
+    victoryframes = sprite_get_number(victorysprite)
+    _sideb = 0
+    if (scr_sideb_get_phase() >= 2)
+        _sideb = 1
+    if (_sideb == 1)
+    {
+        attackreadysprite = spr_noelleb_idle
+        attacksprite = spr_noelleb_spell
+        attackframes = 6
+        victorysprite = spr_noelleb_pray
+        victoryframes = 10
+        defendframes = 5
+        defendsprite = spr_noelleb_defend_sideb
+        hurtsprite = spr_noelleb_hurt_sideb
+        idlesprite = spr_noelleb_idle_sideb
+    }
+    mywidth = 52
+    myheight = 86
+}
 remspellframes = spellframes
 remspellsprite = spellsprite

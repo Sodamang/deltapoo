@@ -27,7 +27,7 @@ function scr_keyiteminfo_all() {
 
 
 function scr_spellinfo_all() {
-    for (j = 0; j < 6; j += 1)
+    for (j = 0; j < 10; j += 1)
     {
         for (i = 0; i < 12; i += 1)
         {

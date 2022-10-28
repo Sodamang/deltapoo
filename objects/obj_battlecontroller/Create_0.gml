@@ -214,6 +214,15 @@ for (i = 0; i < 3; i += 1)
         global.charinstance[i].char = 4
         global.charinstance[i].depth = (200 - (i * 20))
     }
+	if (global.char[i] == 9)
+    {
+        havechar[3] = true
+        charpos[3] = i
+        global.charinstance[i] = instance_create(global.heromakex[i], global.heromakey[i], obj_herojockington)
+        global.charinstance[i].myself = i
+        global.charinstance[i].char = 2
+        global.charinstance[i].depth = (200 - (i * 20))
+    }
 }
 slmxx = 0
 slmyy = 0

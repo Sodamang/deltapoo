@@ -162,7 +162,12 @@ function scr_monster_actreset(monster) {
         global.actnamenoe[argument0][__fj] = " "
         global.actdescnoe[argument0][__fj] = " "
         global.actcostnoe[argument0][__fj] = 0
-        global.actsimulnoe[argument0][__fj] = false
+        global.actsimuljoc[argument0][__fj] = false
+		global.canactjoc[argument0][__fj] = false
+        global.actnamejoc[argument0][__fj] = " "
+        global.actdescjoc[argument0][__fj] = " "
+        global.actcostjoc[argument0][__fj] = 0
+        global.actsimuljoc[argument0][__fj] = false
     }
     return;
 }
