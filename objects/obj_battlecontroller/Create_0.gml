@@ -174,6 +174,7 @@ mmy[0] = 0
 mmy[1] = 0
 mmy[2] = 0
 mmy[3] = 0
+mmy[4] = 0
 for (i = 0; i < 3; i += 1)
 {
     if (global.char[i] != 0)
@@ -216,11 +217,11 @@ for (i = 0; i < 3; i += 1)
     }
 	if (global.char[i] == 9)
     {
-        havechar[3] = true
-        charpos[3] = i
+        havechar[4] = true
+        charpos[4] = i
         global.charinstance[i] = instance_create(global.heromakex[i], global.heromakey[i], obj_herojockington)
         global.charinstance[i].myself = i
-        global.charinstance[i].char = 2
+        global.charinstance[i].char = 5
         global.charinstance[i].depth = (200 - (i * 20))
     }
 }
@@ -236,6 +237,7 @@ hpcolor[0] = c_aqua
 hpcolor[1] = c_fuchsia
 hpcolor[2] = c_lime
 hpcolor[3] = c_yellow
+hpcolor[4] = c_green
 for (i = 0; i < 4; i++)
     hpcolorsoft[i] = merge_color(hpcolor[i], c_white, 0.5)
 global.flag[36] = 0

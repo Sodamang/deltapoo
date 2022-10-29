@@ -1476,6 +1476,7 @@
     {"id":{"name":"obj_readable_room1","path":"objects/obj_readable_room1/obj_readable_room1.yy",},"order":12,},
     {"id":{"name":"PLACE_CONTACT","path":"rooms/PLACE_CONTACT/PLACE_CONTACT.yy",},"order":0,},
     {"id":{"name":"obj_herokris","path":"objects/obj_herokris/obj_herokris.yy",},"order":0,},
+    {"id":{"name":"spr_jock_battleidle","path":"sprites/spr_jock_battleidle/spr_jock_battleidle.yy",},"order":8,},
     {"id":{"name":"snd_queen_mixtape","path":"sounds/snd_queen_mixtape/snd_queen_mixtape.yy",},"order":196,},
     {"id":{"name":"obj_cyber_wall_lights","path":"objects/obj_cyber_wall_lights/obj_cyber_wall_lights.yy",},"order":5,},
     {"id":{"name":"snd_fountain_target","path":"sounds/snd_fountain_target/snd_fountain_target.yy",},"order":14,},

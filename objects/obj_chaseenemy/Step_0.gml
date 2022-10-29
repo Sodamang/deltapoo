@@ -9,6 +9,7 @@ if (encounterflag > 0 && init == false)
         frozennpc = instance_create(x, y, obj_frozennpc)
         frozennpc.sprite_index = frozensprite
         frozennpc.fresh = true
+        frozennpc.fresh = true
         instance_destroy()
         if (sprite_index == spr_werewire_hang_overworld)
             frozennpc.sprite_index = spr_werewire_hurt

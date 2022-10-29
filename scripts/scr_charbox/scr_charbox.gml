@@ -1,5 +1,5 @@
 function scr_charbox() {
-    for (c = 0; c < 4; c += 1)
+    for (c = 0; c < 5; c += 1)
     {
         if (havechar[c] == true)
         {
@@ -11,6 +11,8 @@ function scr_charbox() {
                 charcolor = hpcolor[2]
             if (c == 3)
                 charcolor = hpcolor[3]
+			if (c == 4)
+                charcolor = hpcolor[4]
             gc = global.charturn
             xchunk = 0
             if (charpos[c] == 0 && chartotal == 3)
@@ -49,6 +51,7 @@ function scr_charbox() {
             btc[2] = 0
             btc[3] = 0
             btc[4] = 0
+			btc[5] = 0
             if (gc == charpos[c])
                 btc[global.bmenucoord[0][global.charturn]] = 1
             if (global.fighting == true)
@@ -134,6 +137,11 @@ function scr_charbox() {
             if (c == 3)
             {
                 draw_sprite(spr_headnoelle, global.faceaction[charpos[c]], ((xx + 13) + xchunk), ((bpoff + b_offset) + mmy[c]))
+                draw_sprite(scr_84_get_sprite("spr_bnamenoelle"), 0, ((xx + 51) + xchunk), (((bpoff + b_offset) + 3) + mmy[c]))
+            }
+			if (c == 4)
+            {
+                draw_sprite(spr_headjockington, global.faceaction[charpos[c]], ((xx + 13) + xchunk), ((bpoff + b_offset) + mmy[c]))
                 draw_sprite(scr_84_get_sprite("spr_bnamenoelle"), 0, ((xx + 51) + xchunk), (((bpoff + b_offset) + 3) + mmy[c]))
             }
             draw_sprite(spr_hpname, 0, ((xx + 109) + xchunk), (((bpoff + b_offset) + 11) + mmy[c]))

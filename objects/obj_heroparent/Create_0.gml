@@ -195,7 +195,7 @@ if (object_index == obj_herojockington)
     attackspeed = 0.5
     spellframes = 6
     normalsprite = spr_noelle_walk_right_dw
-    idlesprite = spr_noelleb_idle
+    idlesprite = spr_jock_battleidle
     if (global.encounterno == 73)
         idlesprite = spr_noelle_shocked_dw
     defendsprite = spr_noelleb_defend
@@ -218,7 +218,7 @@ if (object_index == obj_herojockington)
         _sideb = 1
     if (_sideb == 1)
     {
-        attackreadysprite = spr_noelleb_idle
+        attackreadysprite = spr_jock_battleidle
         attacksprite = spr_noelleb_spell
         attackframes = 6
         victorysprite = spr_noelleb_pray
