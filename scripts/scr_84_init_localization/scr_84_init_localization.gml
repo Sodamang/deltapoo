@@ -110,6 +110,7 @@ function scr_84_init_localization() // gml_Script_scr_84_init_localization
             ds_map_add(sm, "spr_queenscreen", spr_queenscreen)
             ds_map_add(sm, "spr_acrade_retire", 2190)
             ds_map_add(sm, "spr_sneo_playback", 3271)
+			ds_map_add(sm, "spr_bnamejock", spr_bnamejock)
             sndm = global.chemg_sound_map
         }
     }

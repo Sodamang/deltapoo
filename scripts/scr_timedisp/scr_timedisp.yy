@@ -6,6 +6,6 @@
   "isCompatibility": false,
   "parent": {
     "name": "short",
-    "path": "folders/Scripts/short.yy",
+    "path": "folders/Rooms/test/Scripts/short.yy",
   },
 }

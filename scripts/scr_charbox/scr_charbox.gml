@@ -142,7 +142,7 @@ function scr_charbox() {
 			if (c == 4)
             {
                 draw_sprite(spr_headjockington, global.faceaction[charpos[c]], ((xx + 13) + xchunk), ((bpoff + b_offset) + mmy[c]))
-                draw_sprite(scr_84_get_sprite("spr_bnamenoelle"), 0, ((xx + 51) + xchunk), (((bpoff + b_offset) + 3) + mmy[c]))
+                draw_sprite(scr_84_get_sprite("spr_bnamejock"), 0, ((xx + 51) + xchunk), (((bpoff + b_offset) + 3) + mmy[c]))
             }
             draw_sprite(spr_hpname, 0, ((xx + 109) + xchunk), (((bpoff + b_offset) + 11) + mmy[c]))
             draw_set_color(c_white)

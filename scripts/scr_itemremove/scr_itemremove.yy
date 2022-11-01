@@ -6,6 +6,6 @@
   "isCompatibility": false,
   "parent": {
     "name": "itemcheck",
-    "path": "folders/Scripts/itemcheck.yy",
+    "path": "folders/Rooms/test/Scripts/itemcheck.yy",
   },
 }

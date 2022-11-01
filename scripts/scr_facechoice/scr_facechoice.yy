@@ -6,6 +6,6 @@
   "isCompatibility": false,
   "parent": {
     "name": "DIALOGUE",
-    "path": "folders/Scripts/DIALOGUE.yy",
+    "path": "folders/Rooms/test/Scripts/DIALOGUE.yy",
   },
 }

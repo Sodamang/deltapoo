@@ -6,6 +6,6 @@
   "isCompatibility": false,
   "parent": {
     "name": "sound",
-    "path": "folders/Scripts/sound.yy",
+    "path": "folders/Rooms/test/Scripts/sound.yy",
   },
 }

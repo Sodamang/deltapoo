@@ -6,6 +6,6 @@
   "isCompatibility": false,
   "parent": {
     "name": "gamepad",
-    "path": "folders/Scripts/gamepad.yy",
+    "path": "folders/Rooms/test/Scripts/gamepad.yy",
   },
 }

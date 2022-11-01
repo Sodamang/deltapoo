@@ -6,6 +6,6 @@
   "isCompatibility": false,
   "parent": {
     "name": "caterpillar",
-    "path": "folders/Scripts/game/caterpillar.yy",
+    "path": "folders/Rooms/test/Scripts/game/caterpillar.yy",
   },
 }

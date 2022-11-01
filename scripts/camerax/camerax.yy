@@ -6,6 +6,6 @@
   "isCompatibility": false,
   "parent": {
     "name": "camera",
-    "path": "folders/Scripts/camera.yy",
+    "path": "folders/Rooms/test/Scripts/camera.yy",
   },
 }

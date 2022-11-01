@@ -6,6 +6,6 @@
   "isCompatibility": false,
   "parent": {
     "name": "BATTLE",
-    "path": "folders/Scripts/BATTLE.yy",
+    "path": "folders/Rooms/test/Scripts/BATTLE.yy",
   },
 }

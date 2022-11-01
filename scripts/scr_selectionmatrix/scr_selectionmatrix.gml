@@ -95,7 +95,7 @@ function scr_spellmenu_setup() {
                     global.battlespellspecial[__i][__fj] = 4
                 }
             }
-			 if (global.char[__i] == 9)
+			 if (global.char[__i] == 5)
             {
                 if (global.canactjoc[0][__fj] == true)
                 {

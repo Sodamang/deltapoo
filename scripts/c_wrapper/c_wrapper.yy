@@ -6,6 +6,6 @@
   "isCompatibility": false,
   "parent": {
     "name": "cutscene WRAPP EV",
-    "path": "folders/Scripts/cutscene/cutscene WRAPP EV.yy",
+    "path": "folders/Rooms/test/Scripts/cutscene/cutscene WRAPP EV.yy",
   },
 }

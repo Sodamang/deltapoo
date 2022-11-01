@@ -6,6 +6,6 @@
   "isCompatibility": false,
   "parent": {
     "name": "maths",
-    "path": "folders/Scripts/maths.yy",
+    "path": "folders/Rooms/test/Scripts/maths.yy",
   },
 }

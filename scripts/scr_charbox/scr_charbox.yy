@@ -6,6 +6,6 @@
   "isCompatibility": false,
   "parent": {
     "name": "DARKWORLD",
-    "path": "folders/Scripts/DARKWORLD.yy",
+    "path": "folders/Rooms/test/Scripts/DARKWORLD.yy",
   },
 }

@@ -6,6 +6,6 @@
   "isCompatibility": false,
   "parent": {
     "name": "jap",
-    "path": "folders/Scripts/jap.yy",
+    "path": "folders/Rooms/test/Scripts/jap.yy",
   },
 }

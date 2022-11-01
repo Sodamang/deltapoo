@@ -6,6 +6,6 @@
   "isCompatibility": false,
   "parent": {
     "name": "cutscene",
-    "path": "folders/Scripts/cutscene.yy",
+    "path": "folders/Rooms/test/Scripts/cutscene.yy",
   },
 }

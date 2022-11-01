@@ -6,6 +6,6 @@
   "isCompatibility": false,
   "parent": {
     "name": "ossafe",
-    "path": "folders/Scripts/ossafe.yy",
+    "path": "folders/Rooms/test/Scripts/ossafe.yy",
   },
 }

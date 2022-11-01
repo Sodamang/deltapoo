@@ -214,6 +214,12 @@ function scr_actinfo_temp(act) {
             acttpcost[__acti] = global.actcostnoe[argument0][__acti]
             actsimul[__acti] = global.actsimulnoe[argument0][__acti]
         }
+		if (global.char[global.charturn] == 5)
+        {
+            canact[__acti] = global.canactjoc[argument0][__acti]
+            acttpcost[__acti] = global.actcostjoc[argument0][__acti]
+            actsimul[__acti] = global.actsimuljoc[argument0][__acti]
+        }
     }
     return;
 }
