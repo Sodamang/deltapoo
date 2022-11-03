@@ -1,3 +1,5 @@
+	layer_is_draw_depth_forced()
+	layer_force_draw_depth(1, 100000)
 if drawself
     draw_self()
 wave_siner += 1

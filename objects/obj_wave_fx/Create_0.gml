@@ -4,3 +4,4 @@ wave_siner = 0
 drawself = 1
 mode = 0
 thickness = 1
+depth = 100000
