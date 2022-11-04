@@ -18,6 +18,6 @@
   "duration": 1.306958,
   "parent": {
     "name": "default_ext",
-    "path": "folders/Sounds/default_ext.yy",
+    "path": "folders/Sprites/Sounds/default_ext.yy",
   },
 }

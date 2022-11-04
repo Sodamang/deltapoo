@@ -18,6 +18,6 @@
   "duration": 17.490046,
   "parent": {
     "name": "dog",
-    "path": "folders/Sounds/dog.yy",
+    "path": "folders/Sprites/Sounds/dog.yy",
   },
 }

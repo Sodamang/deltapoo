@@ -1,0 +1,1 @@
+//obj_caterpillarchara.visible = false

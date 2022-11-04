@@ -15,17 +15,17 @@ if (on == 2 || on == 3 || on == 4)
 {
     if (global.flag[20] == 0)
         onionsprite = spr_onionsan
-    if (global.flag[20] == 1)
-        onionsprite = spr_onionsan
-    if (global.flag[20] == 2)
-        onionsprite = spr_onionsan
-    if (global.flag[20] == 3)
-        onionsprite = spr_onionsan
-    if (global.flag[20] == 4)
-        onionsprite = spr_onionsan
+    if (onionsetsprite = 1)
+        onionsprite = spr_onionsan_wistful
+    if (onionsetsprite = 2)
+        onionsprite = spr_onionsan_menacing
+    if (onionsetsprite = 3)
+        onionsprite = spr_onionsan_kawaii
+    if (onionsetsprite = 4)
+        onionsprite = spr_onionsan_krissusier
     if (global.flag[20] == 5)
         onionsprite = spr_onionsan
-    draw_sprite_part(onionsprite, floor((siner / 6)), 0, 0, 63, floor(onionh), (x + 2), (y - floor(onionh) + 5))
+    draw_sprite_part(onionsprite, floor((siner / 6)), 0, 0, 70, floor(onionh), (x + 2), (y - floor(onionh) + 5))
     if (on == 2 || on == 3)
     {
         if (onionh < 63)

@@ -18,6 +18,6 @@
   "duration": 1.319433,
   "parent": {
     "name": "group_sfx",
-    "path": "folders/Sounds/group_sfx.yy",
+    "path": "folders/Sprites/Sounds/group_sfx.yy",
   },
 }
