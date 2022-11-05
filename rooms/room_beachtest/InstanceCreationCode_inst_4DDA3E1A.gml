@@ -1,0 +1,1 @@
+msginfo = [0, "* Onion cannot fit on land./%", "RM_room_dark_test2_ICC_I34805_1_0"]

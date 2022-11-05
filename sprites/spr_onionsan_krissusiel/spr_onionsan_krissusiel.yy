@@ -28,10 +28,10 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"bf1f7e31-c746-4d60-8fbf-eb962c855e5c",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d022bdee-1e5e-49fd-bf17-299c6a8d06d7",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6c8d9913-19d6-47ab-b998-86b0f905fd5d",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"878ba6f4-ed43-48fb-81ee-de10bf7eaefe",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d4a9833f-8291-4a19-b515-c097413baf5b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"404ae765-bfde-4796-8880-4401e4e79c4d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c416d426-3604-48ac-8a2e-c8d606d79c6d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"53a48716-6544-4af5-b1ed-621d82d711d0",},
   ],
   "sequence": {
     "resourceType": "GMSequence",
@@ -39,8 +39,8 @@
     "name": "spr_onionsan_krissusiel",
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 1.0,
-    "playbackSpeedType": 1,
+    "playbackSpeed": 10.0,
+    "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
     "length": 4.0,
@@ -48,10 +48,10 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"b5d64036-843b-4b55-9a72-83f16c72044f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bf1f7e31-c746-4d60-8fbf-eb962c855e5c","path":"sprites/spr_onionsan_krissusiel/spr_onionsan_krissusiel.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"15f6ed1d-580c-47b5-abdd-c04bdfa44270","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d022bdee-1e5e-49fd-bf17-299c6a8d06d7","path":"sprites/spr_onionsan_krissusiel/spr_onionsan_krissusiel.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"9c7d469f-08bf-4189-8bae-cebf7933bd7a","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6c8d9913-19d6-47ab-b998-86b0f905fd5d","path":"sprites/spr_onionsan_krissusiel/spr_onionsan_krissusiel.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"cc26ab9f-2acd-48d6-ada5-d7cbf7876609","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"878ba6f4-ed43-48fb-81ee-de10bf7eaefe","path":"sprites/spr_onionsan_krissusiel/spr_onionsan_krissusiel.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"9443fdfa-e4ab-4467-92fe-d733affbac18","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d4a9833f-8291-4a19-b515-c097413baf5b","path":"sprites/spr_onionsan_krissusiel/spr_onionsan_krissusiel.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d2257273-6d95-4dd4-b60d-16416a1acf9d","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"404ae765-bfde-4796-8880-4401e4e79c4d","path":"sprites/spr_onionsan_krissusiel/spr_onionsan_krissusiel.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4cd51c3b-d2af-49b3-988f-ebdf215a96bf","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c416d426-3604-48ac-8a2e-c8d606d79c6d","path":"sprites/spr_onionsan_krissusiel/spr_onionsan_krissusiel.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"2844d6d7-4b6e-4eec-8caa-d132fcc99c85","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"53a48716-6544-4af5-b1ed-621d82d711d0","path":"sprites/spr_onionsan_krissusiel/spr_onionsan_krissusiel.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
@@ -70,7 +70,7 @@
     "eventStubScript": null,
   },
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"174d6aa6-ea19-4128-916a-3f40c609e277","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"5f00e99e-cc83-426e-bbc4-a8aed65bd2b8","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {

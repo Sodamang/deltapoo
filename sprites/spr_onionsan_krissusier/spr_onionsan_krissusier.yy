@@ -28,10 +28,10 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1886c244-35d2-42fe-88ee-8c41cefdfe26",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"48e05128-1a68-42bd-ad99-4e2261cecd46",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9d5ed289-dcfe-4164-90b8-c81e71feb678",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4ba8e326-7ccc-4fb6-afdb-5c6c2e971495",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a65430f4-49e1-4d11-b458-d1550c2907ef",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"75e1c0c2-3664-4337-ba51-dabd2f3c86ab",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3a6136f7-d9e0-4055-9540-048bc0929599",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"cd1a0a3f-68c1-4cb0-b260-597dd9b41c65",},
   ],
   "sequence": {
     "resourceType": "GMSequence",
@@ -48,10 +48,10 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"7688e7b2-c8f5-4b1e-ba17-955b32a3b511","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1886c244-35d2-42fe-88ee-8c41cefdfe26","path":"sprites/spr_onionsan_krissusier/spr_onionsan_krissusier.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"88b43bbd-8ce1-40af-991f-c564c52f9bbd","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"48e05128-1a68-42bd-ad99-4e2261cecd46","path":"sprites/spr_onionsan_krissusier/spr_onionsan_krissusier.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"86989287-e871-4634-8dbf-8679ab8477b1","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9d5ed289-dcfe-4164-90b8-c81e71feb678","path":"sprites/spr_onionsan_krissusier/spr_onionsan_krissusier.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"91b5c0b5-1808-44cb-94eb-3c058056688c","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4ba8e326-7ccc-4fb6-afdb-5c6c2e971495","path":"sprites/spr_onionsan_krissusier/spr_onionsan_krissusier.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4d65133a-db2c-4853-80f6-43b4415ed7c3","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a65430f4-49e1-4d11-b458-d1550c2907ef","path":"sprites/spr_onionsan_krissusier/spr_onionsan_krissusier.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d681d0ba-a4d1-465c-b2ba-27f7e30c59ca","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"75e1c0c2-3664-4337-ba51-dabd2f3c86ab","path":"sprites/spr_onionsan_krissusier/spr_onionsan_krissusier.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ffe896eb-75e1-47a7-b13c-b2f5235242bb","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3a6136f7-d9e0-4055-9540-048bc0929599","path":"sprites/spr_onionsan_krissusier/spr_onionsan_krissusier.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f26d7a93-f166-4a79-8165-4f4e060d881a","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"cd1a0a3f-68c1-4cb0-b260-597dd9b41c65","path":"sprites/spr_onionsan_krissusier/spr_onionsan_krissusier.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
@@ -70,7 +70,7 @@
     "eventStubScript": null,
   },
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"ed3e35d3-d446-4eba-a74d-164e96eb88b9","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"54e09ef9-d326-470f-aac7-9b314f402faa","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {

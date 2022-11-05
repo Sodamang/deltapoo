@@ -638,3 +638,10 @@ if scr_debug()
         //}
     }
 }
+	if ononion = true
+	{
+	dsprite = spr_krisd
+	rsprite = spr_onionsan_krissusier
+	usprite = spr_krisu
+	lsprite = spr_onionsan_krissusiel	
+	}

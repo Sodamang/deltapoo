@@ -221,7 +221,7 @@ if (global.chapter == 2)
     if (global.flag[302] == 1)
         instance_create(x, y, obj_kris_headobj)
 }
-
+ononion = false
 y_off = 0
 
 //if global.mainchar = "susie"

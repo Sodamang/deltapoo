@@ -1,4 +1,4 @@
-on = 0
+on = 2
 onion_blue_alpha = 0
 onionh = 0
 global.flag[20] = 0

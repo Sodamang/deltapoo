@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_onionbody",
+  "name": "obj_onionbodyfx",
   "spriteId": {
     "name": "spr_onionblue",
     "path": "sprites/spr_onionblue/spr_onionblue.yy",

@@ -5,3 +5,5 @@ honkcount = 0
 oi = 3
 onion_actor = 3
 onion = obj_onionbody
+chara = obj_mainchara
+susiecaterpillar = obj_caterpillarchara
